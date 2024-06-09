@@ -20,3 +20,10 @@ The top five specialties with the highest number of cases provide insights into 
 The analysis of monthly trends in day cases and inpatients versus outpatients reveals patterns in healthcare utilization. By tracking these trends, we can identify seasonal variations or sudden spikes in demand that might require adaptive resource allocation. For instance, a steady rise in inpatient numbers over several months could indicate a need for more inpatient facilities or staff. Conversely, a decline in outpatient numbers might suggest improved efficiency in handling these cases or a shift in patient preferences towards more complex treatments requiring hospital stays.
 
 In summary, the increasing wait list and the detailed breakdown of case types, age profiles, and specialties highlight critical areas needing attention. These observations can guide healthcare providers in optimizing resource allocation, improving patient flow, and ultimately reducing wait times across various specialties and case types.
+
+
+###### Screenshort
+![Drilldown](https://github.com/PreranaRokade/Patient-Waitlist-Analysis-using-PowerBI/assets/168730729/ee82c6fb-a364-4571-aee5-1724a8759aa3)
+![Detail 2](https://github.com/PreranaRokade/Patient-Waitlist-Analysis-using-PowerBI/assets/168730729/525ea5b2-9292-440f-87b7-ade8b0fe5b14)
+![Summary1](https://github.com/PreranaRokade/Patient-Waitlist-Analysis-using-PowerBI/assets/168730729/5f3734d3-6d30-4a56-9ed1-d8a676d8f1e3)
+
