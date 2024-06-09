@@ -23,7 +23,9 @@ In summary, the increasing wait list and the detailed breakdown of case types, a
 
 
 ###### Screenshort
-![Drilldown](https://github.com/PreranaRokade/Patient-Waitlist-Analysis-using-PowerBI/assets/168730729/ee82c6fb-a364-4571-aee5-1724a8759aa3)
-![Detail 2](https://github.com/PreranaRokade/Patient-Waitlist-Analysis-using-PowerBI/assets/168730729/525ea5b2-9292-440f-87b7-ade8b0fe5b14)
+
 ![Summary1](https://github.com/PreranaRokade/Patient-Waitlist-Analysis-using-PowerBI/assets/168730729/5f3734d3-6d30-4a56-9ed1-d8a676d8f1e3)
+![Detail 2](https://github.com/PreranaRokade/Patient-Waitlist-Analysis-using-PowerBI/assets/168730729/525ea5b2-9292-440f-87b7-ade8b0fe5b14)
+![Drilldown](https://github.com/PreranaRokade/Patient-Waitlist-Analysis-using-PowerBI/assets/168730729/ee82c6fb-a364-4571-aee5-1724a8759aa3)
+
 
